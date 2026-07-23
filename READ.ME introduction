@@ -1,0 +1,57 @@
+# PromptForge AI 🚀
+
+PromptForge AI is a zero-cost multi-agent AI system built using Poe's Multi-Bot orchestration framework. It converts simple application ideas into structured project specifications and detailed prompts optimized for AI-powered development platforms like Bolt.new.
+
+The system uses two specialized AI agents:
+
+- 🧠 **VibePrompt_Bot (Lead Agent)**  
+  Acts as the project coordinator. It analyzes user requirements, communicates with the worker agent, and generates a complete development prompt.
+
+- ⚙️ **SpecArchitect_Bot (Worker Agent)**  
+  Acts as a software architect. It extracts the application's purpose, target users, features, UI requirements, and user interactions.
+
+## Workflow
+
+User Idea  
+⬇️  
+VibePrompt_Bot (Orchestrator)  
+⬇️  
+SpecArchitect_Bot (Specification Generator)  
+⬇️  
+Final Development Blueprint + Bolt.new Prompt
+
+## Features
+
+- Multi-agent AI collaboration
+- Zero API cost architecture
+- Automated software specification generation
+- AI-assisted prompt engineering
+- Bolt.new compatible development prompts
+- Token-efficient agent design
+
+## Technologies
+
+- Poe Multi-Bot Framework
+- GPT-4o-mini
+- Prompt Engineering
+- Agentic AI Workflows
+
+## Example
+
+Input:
+> Create a student expense tracker app.
+
+Output:
+- Application purpose
+- Target users
+- Core features
+- UI structure
+- Suggested technology stack
+- Ready-to-use Bolt.new prompt
+
+## Future Improvements
+
+- Add more specialized agents
+- Integrate coding agents
+- Generate complete GitHub repositories
+- Add AI testing and debugging agents
